@@ -1,0 +1,17 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:attrs="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrador.javialex_lab09.SegundoFragment">
+
+    <com.example.administrador.javialex_lab09.CuadradoView
+        android:id="@+id/cdvwCuadrado1"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_gravity="center"
+        attrs:colorCuadrado="#9af73d"
+        attrs:colorLabel="#ffffff"
+        attrs:stringLabel="OTRO CLICK"
+        />
+</FrameLayout>

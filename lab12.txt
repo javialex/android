@@ -1,0 +1,6 @@
+Crear Menus
+Menus contextuales
+
+Lab 13:
+
+De un conjunto de imagenes, poder poner como fondo de pantalla a una imagen

@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.example.administrador.javialex_lab12.MainActivity">
+
+    <GridLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:columnCount="3"
+        android:rowCount="5">
+        <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Boton Uno"
+            android:id="@+id/btnUno"
+            android:onClick="btnUnoClick"/>
+        <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Boton Dos"
+            android:id="@+id/btnDos"
+            android:onClick="btnDosClick"/>
+        <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Boton Tres"
+            android:id="@+id/btnTres"
+            android:onClick="btnTresClick"/>
+        <Button android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="------ Boton Cuatro ------"
+            android:id="@+id/btnCuatro"
+            android:layout_columnSpan="2"/>
+    </GridLayout>
+</RelativeLayout>

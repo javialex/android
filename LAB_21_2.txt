@@ -1,0 +1,7 @@
+LABORATORIO 21
+
+En caso de no poder correr algunas aplicaciones eliminar el siguiente proceso:
+
+
+adb.exe 
+

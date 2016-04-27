@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ViewCuadrado">
+        <attr name="colorCuadrado" format="color"></attr>
+        <attr name="colorLabel" format="color"></attr>
+        <attr name="stringLabel" format="string"></attr>
+        <attr name="onTrue" format="boolean"></attr>
+    </declare-styleable>
+</resources>

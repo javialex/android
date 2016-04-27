@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+<item android:state_pressed="true">
+    <objectAnimator
+        android:propertyName="translationZ"
+        android:duration="@android:integer/config_shortAnimTime"
+        android:valueFrom="@dimen/btn_abajo"
+        android:valueTo="@dimen/btn_arriba"
+        android:valueType="floatType"
+        />
+</item>
+    <item>
+        <objectAnimator
+            android:propertyName="translationZ"
+            android:duration="@android:integer/config_shortAnimTime"
+            android:valueFrom="@dimen/btn_arriba"
+            android:valueTo="@dimen/btn_abajo"
+            android:valueType="floatType"
+            />
+    </item>
+</selector>

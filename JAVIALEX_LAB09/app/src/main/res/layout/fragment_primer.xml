@@ -1,0 +1,13 @@
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.administrador.javialex_lab09.PrimerFragment">
+
+    <com.example.administrador.javialex_lab09.CuadradoView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:id="@+id/cdvwCuadrado1"
+        android:layout_gravity="center" />
+
+</FrameLayout>

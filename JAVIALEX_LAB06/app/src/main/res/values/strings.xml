@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">JAVIALEX_LAB06</string>
+    <string name="LLAMAR_ACTIVITY">Llamar Activity</string>
+    <string name="LLAMAR_EXPLORADOR">Llamar Explorador</string>
+    <string name="LLAMAR_REF_GEO">Llamar Ref. Geografica</string>
+    <string name="LLAMAR_CELULAR">Llamar Celular</string>
+    <string name="SEGUNDO_ACTIVITY">Segundo Activity</string>
+</resources>
