@@ -1,0 +1,10 @@
+LABORATORIO 24
+Necesitamos un intent para acceder a la cámara
+
+En el manifest para impedir la descarga o instalación 
+que en el celular tenga el sensor requerido, ejemplo: la cámara
+
+<uses-feature android:name="android.hardware.camera" android:required="true"/>
+
+A partir de la versión 6.0.1 de Android es necesario habilitar el permiso 
+en Aplicaciones y permisos, dándole acceso a la cámara y carpeta de almacenamient0

@@ -1,0 +1,12 @@
+LABORATORIO 23
+ACELEROMETRO: SE MUEVE EN TRES EJES: X, Y y Z.
+GIROSCOPIO
+MAGNOMETRO: EJEMPLO, BRUJULA DE GOOGLE.
+Si marcamos #*0*# nos aparecerá una grilla de sensores.
+Nota: La cámara no es un sensor, pero se lo puede usar.
+
+Cuando se trabaja con sensores, es recomendable usar onResume y onPause
+
+En el manifest para que no interese que no esté bloqueado el giro de pantalla ponemos este valor
+en el manifest:
+android:screenOrientation="portrait"
