@@ -1,0 +1,3 @@
+LABORATORIO 31
+SoapPrimitive se usa cuando el retorno es un tipo primitivo y no así una clase. 
+En el ejercicio el método en C# envía un string.

@@ -1,0 +1,35 @@
+{
+  "project_info": {
+    "project_number": "607301451837",
+    "project_id": "brilliant-tide-130323"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:607301451837:android:683c21a07d94e820",
+        "android_client_info": {
+          "package_name": "com.example.administrador.javialex_lab3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDjUhW7Or1uUtX2EKNRq1wnyjTYiny4Zs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

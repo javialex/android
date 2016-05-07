@@ -1,0 +1,35 @@
+﻿{
+  "project_info": {
+    "project_number": "763934433510",
+    "project_id": "gcmtest-1303"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:763934433510:android:a8d4a955a8dac176",
+        "android_client_info": {
+          "package_name": "com.and104.cognos.lab30"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClXyo6F5UFXYgEKjTsv3n2jbBBDNIPUnU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
