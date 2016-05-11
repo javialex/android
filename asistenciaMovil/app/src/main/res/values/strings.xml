@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Control de Asistencia Móvil</string>
+    <string name="title_activity_menu_asi_man">Menú - Asistencia Móvil</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Configuración</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_eventos_fragment">Listado de Eventos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="title_inicio_fragment">Bienvenid@!!</string>
+</resources>

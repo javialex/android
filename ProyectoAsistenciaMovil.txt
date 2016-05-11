@@ -1,0 +1,4 @@
+Proyecto AsistenciaMovil
+JodaTime
+Logs
+SharedPreferences para evitar que le pida loguearse a cada rato (Lab15)
